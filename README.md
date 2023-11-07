@@ -1,7 +1,5 @@
 ## EXP NO : 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DATE : 25.08.2023
 #  Mean and variance of a discrete  distribution
-
-
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
